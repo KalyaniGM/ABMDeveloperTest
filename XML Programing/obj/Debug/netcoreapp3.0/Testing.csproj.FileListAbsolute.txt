@@ -1,0 +1,11 @@
+D:\Study\Basic Codings\Testing\bin\Debug\netcoreapp3.0\Testing.exe
+D:\Study\Basic Codings\Testing\bin\Debug\netcoreapp3.0\Testing.deps.json
+D:\Study\Basic Codings\Testing\bin\Debug\netcoreapp3.0\Testing.runtimeconfig.json
+D:\Study\Basic Codings\Testing\bin\Debug\netcoreapp3.0\Testing.runtimeconfig.dev.json
+D:\Study\Basic Codings\Testing\bin\Debug\netcoreapp3.0\Testing.dll
+D:\Study\Basic Codings\Testing\bin\Debug\netcoreapp3.0\Testing.pdb
+D:\Study\Basic Codings\Testing\obj\Debug\netcoreapp3.0\Testing.csprojAssemblyReference.cache
+D:\Study\Basic Codings\Testing\obj\Debug\netcoreapp3.0\Testing.AssemblyInfoInputs.cache
+D:\Study\Basic Codings\Testing\obj\Debug\netcoreapp3.0\Testing.AssemblyInfo.cs
+D:\Study\Basic Codings\Testing\obj\Debug\netcoreapp3.0\Testing.dll
+D:\Study\Basic Codings\Testing\obj\Debug\netcoreapp3.0\Testing.pdb
